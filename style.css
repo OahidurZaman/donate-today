@@ -41,7 +41,7 @@ p, a{
 }
 
 .head-section{
-    background: url("/images/donation3.jpg");
+    background: url("./images//donation3.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
