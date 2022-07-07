@@ -159,6 +159,22 @@ p, a{
     border-bottom-left-radius: 5px;
 }
 
+.payment-method-section{
+    margin-top: 130px;
+}
+
+.payment-method-section .images{
+    margin-top: 50px;
+    display: flex;
+    gap: 0px 60px;
+    justify-content: center;
+}
+
+.payment-method-section .images img{
+    height: 40px;
+    width: 80px;
+}
+
 footer{
     background-color: #0B0D17;
     padding: 40px 0px;
